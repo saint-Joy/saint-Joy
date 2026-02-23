@@ -33,16 +33,15 @@
 ### ⚡ Lunar Tech Garden
 Rust • Go • TypeScript • AI Agents • Collective Minds • Decentralized Bioluminescence • Eco-Futurism
 
-### 📡 Nocturnal Transmission
+### 🌙 Nocturnal Transmission
 <div align="center">
   <a href="https://cyberia.to"><img src="https://img.shields.io/badge/Portal-cyberia.to-9d4edd?style=flat-square&logo=internetexplorer&logoColor=ffffff&colorA=0a001f&colorB=9d4edd" alt="cyberia"/></a>
   <a href="https://x.com/JooyRocket"><img src="https://img.shields.io/badge/@JooyRocket-000000?style=flat-square&logo=x&logoColor=ffffff&colorA=0a001f&colorB=9d4edd" alt="x"/></a>
-  <!-- Add Discord / email / other links here if you want -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saint-Joy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a001f&title_color=9d4edd&icon_color=7aa2f7&text_color=c0caf5&border_radius=12" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saint-Joy&theme=tokyonight&hide_border=true&background=0a001f&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=50fa7b&sideNums=50fa7b&dates=7aa2f7" alt="streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saint-Joy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a001f&title_color=9d4edd&icon_color=7aa2f7&text_color=c0caf5&border_radius=12&include_all_commits=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=saint-Joy&theme=tokyonight&hide_border=true&background=0a001f&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=50fa7b&sideNums=50fa7b&dates=7aa2f7" alt="streak" width="48%"/>
 </div>
 
 <br>
